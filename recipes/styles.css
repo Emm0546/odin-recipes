@@ -1,10 +1,12 @@
 body {
   background-color: antiquewhite;
-  font-family: sans-serif;
+  font-family: 'Inter', sans-serif;
 }
-h1 {
+h1,
+h2 {
   text-align: center;
   margin-bottom: 24px;
+  font-family: 'Playfair Display';
 }
 img {
   display: block;
